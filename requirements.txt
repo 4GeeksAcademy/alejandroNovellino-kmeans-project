@@ -12,3 +12,4 @@ sqlalchemy>=1.4.37
 sympy>=1.10.1
 xgboost
 ipython~=8.30.0
+scipy~=1.15.1
